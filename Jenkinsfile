@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("checkout"){
             steps {
-                git 'https://github.com/venky9948/myweb.git'
+                git 'https://github.com/venky9948/Devops.git'
             }
         }
     }
